@@ -52,7 +52,7 @@ You can [click here to view the app online](https://myappmaker.io/Doggy/).
 
  📥 Installation
 
-1. Download the APK file from the [Releases](./releases) section.
+1. Download the APK file from the [Releases](./Releases) section.
 2. Enable "Install from Unknown Sources" on your Android device.
 3. Open the APK file and follow the installation prompts.
 4. Launch the app and start exploring!
