@@ -34,7 +34,7 @@ You can [click here to view the app online](https://myappmaker.io/Doggy/).
 
 
  📸 Screenshots
-[View all screenshots](./screenshots/)
+[View all screenshots](./Screenshots/)
 
 
 💡 About This Project
