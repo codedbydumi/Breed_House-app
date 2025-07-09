@@ -5,9 +5,8 @@
 This is my first no-code app, created in **2020** using the [Appmaker.lk](https://www.appmaker.lk) platform.
 
 <p align="center">
-  <img src="./Screenshots/Screenshot_20201101-180006.png" alt="Doggy App Screenshot" width="60%" />
+  <img src="./Screenshots/Screenshot_20201101-180006.png" alt="Doggy App Screenshot" width="300" height="600"/>
 </p>
-
 ---
 
 ## 🌟 Overview
