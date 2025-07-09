@@ -1,7 +1,7 @@
 🐶 Doggy App
 
 <p align="center">
-  <img src="./Screenshots/IMG_4016.jpg" alt="Screenshot" width="60%" />
+  <img src="./Screenshots/Screenshot_20201101-180006.png" alt="Screenshot" width="60%" />
 </p>
 Doggy App is a simple, informative mobile application for dog lovers to explore and learn about dog breeds around the world. This is my first no-code app, created in 2020 using the [Appmaker.lk](https://www.appmaker.lk) platform.
 
