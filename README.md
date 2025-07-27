@@ -1,3 +1,4 @@
+
 # 🐶 Doggy App  
 *A Simple, Informative Mobile App for Dog Lovers*
 
